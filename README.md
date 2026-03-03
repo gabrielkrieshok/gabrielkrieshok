@@ -8,7 +8,7 @@ I also make things on the side.
 
 ### Projects
 
-🦟 **[Ovicounter AI](https://github.com/gabrielkrieshok/ovicounter-ai)** — Computer vision for vector surveillance. Counts mosquito eggs on ovitrap papers — built for USAID, used by entomology programs across multiple countries.
+🦟 **[Ovicounter AI](https://github.com/gabrielkrieshok/ovicounter-ai)** — Computer vision for vector surveillance. Counts mosquito eggs on ovitrap papers — built for international organizations, used by entomology programs across multiple countries.
 
 🧠 **[Everyday Concepts](https://github.com/gabrielkrieshok/everyday-concepts)** — A visual encyclopedia of mental models, with hand-drawn sketches.
 
